@@ -5,6 +5,8 @@
 momento importante e testa **"e se eu tivesse respondido de outra forma?"**
 — comparando a simulação com o que realmente aconteceu.
 
+Link do nosso site: https://rumo-alpha-eight.vercel.app/
+
 ```
 Call real → Momento importante → Replay → Nova abordagem → Comparação → Aprendizado
 ```
